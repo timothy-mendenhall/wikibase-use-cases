@@ -5,7 +5,7 @@
 ### SUMMARY
 The past 15 years have witnessed the development of a number of initiatives, projects, and standards to move library, archives, and museum metadata and collections out of siloed, flat-file database structures and into a linked open data implementation more accessible to open web search.   Despite the great deal of interest within the cultural heritage sphere, various roadblocks ranging from vast sets of legacy data, a highly complex and inconsistent metadata ecosystem, steep learning curves, and the lack of adequate systems and tools have prevented many cultural heritage institutions from moving fully into linked data production. 
 
-While this thumbnail assessment of linked data within the cultural heritage sphere may sound discouraging, over the past 8 years the Wikimedia community has developed Wikidata, a vast trove of linked data derived in part from Wikipedia, and the underlying Wikibase platform, which offers a viable interface for creating and publishing linked data that even linked data novices can easily learn.  Unsurprisingly, many major players in cultural heritage have taken note, ranging from OCLC’s Wikibase explorations to adoption of Wikibase by the Bibliothèque Nationale de France and the Deutsche Nationalbibliothek for their authority datasets.  Other cultural organizations like Rhizome, which supports born-digital arts, and projects like Europeana EAGLE are building their databases entirely in Wikibase.  In turn, the Wikimedia community is responding by developing a model for federated Wikibase instances, which can serve local needs while easily tapping into the power of the vast Wikimedia metadata ecosystem.  Google has taken note--the community-curated linked open data of Wikidata forms the bedrock of the Google Knowledge Graph.
+While this thumbnail assessment of linked data within the cultural heritage sphere may sound discouraging, over the past 8 years the Wikimedia community has developed Wikidata, a vast trove of linked data derived in part from Wikipedia, and the underlying Wikibase platform, which offers a viable interface for creating and publishing linked data that even linked data novices can easily learn.  Unsurprisingly, many major players in cultural heritage have taken note, ranging from OCLC’s Wikibase explorations \[1\] to adoption of Wikibase by the Bibliothèque Nationale de France \[2\] and the Deutsche Nationalbibliothek \[3\] for their authority datasets.  Other cultural organizations like Rhizome, which supports born-digital arts, and projects like Europeana EAGLE \[4\] are building their databases entirely in Wikibase \[5\].  In turn, the Wikimedia community is responding by developing a model for federated Wikibase instances, which can serve local needs while easily tapping into the power of the vast Wikimedia metadata ecosystem.  Google has taken note--the community-curated linked open data of Wikidata forms the bedrock of the Google Knowledge Graph. \[6\]
 
 Although the Wikibase platform can easily be installed on a laptop or in a cloud environment like Amazon Web Services, many metadata and cultural heritage professionals have found it difficult to get institutional support for such a local instance because IT resources, including the staff time needed to support a local instance of an open source platform, are lacking.  Often, institutional structures have made bridging these technological gaps insurmountable.  This document seeks to set out a clearly articulated set of use cases demonstrating the benefits of setting up an institutional or consortial Wikibase instance to meet both urgent current needs of academic collections and to help library staff start tackling gaps in data which were formerly unresolvable.
 
@@ -122,5 +122,19 @@ This section could be filled in at a later date, especially after basic proof-of
 - Developer time, staff time
 - Training
 
-
-
+### NOTES AND REFERENCES
+1. See [Project Passage](https://www.oclc.org/research/publications/2019/oclcresearch-creating-library-linked-data-with-wikibase-project-passage.html) and the [Shared Entity Management Infrastructure](https://www.oclc.org/en/news/releases/2020/20200109-oclc-awarded-mellon-grant-linked-data-management-infrastructure.html), both of which are built using Wikibase.
+1. French National Entities File (FNE) website https://www.transition-bibliographique.fr/fne/french-national-entities-file/  accessed 8 May 2020.
+1. Wikimedia Deutschland blog post, 9 May 2019. “New testing ground for Wikibase: A federal agency goes on an expedition in the Wiki universe,” accessed 8 May 2020. https://blog.wikimedia.de/2019/05/09/new-testing-ground-for-wikibase-a-federal-agency-goes-on-an-expedition-in-the-wiki-universe/ 
+1. Europeana EAGLE “aims to build a multi-lingual online collection of millions of digitised items from European museums, libraries, archives and multi-media collections, which deal with inscriptions from the Greek and Roman World.” https://wiki.eagle-network.eu/wiki/Main_Page accessed 8 May 2020
+1. See the [Wikibase Registry](https://wikibase-registry.wmflabs.org/wiki/Main_Page) for more information on Wikibase implementers.
+1. Edward, Tony. “Leveraging Wikidata to Gain a Google Knowledge Graph Result” Search Engine Land, May 1, 2015. https://searchengineland.com/leveraging-wikidata-gain-google-knowledge-graph-result-219706 accessed 8 May 2020
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
