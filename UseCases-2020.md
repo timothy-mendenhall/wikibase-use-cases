@@ -134,7 +134,4 @@ This section could be filled in at a later date, especially after basic proof-of
 1. See Bone, Christine & Lougheed, Brett. “Library of Congress Subject Headings Related to Indigenous Peoples: Changing LCSH for Use in a Canadian Archival Context.” Cataloging & Classification Quarterly, v.56 no. 1.  https://doi-org.ezproxy.cul.columbia.edu/10.1080/01639374.2017.1382641 See also several chapters in Sandberg, Jane (ed.). Ethical Questions in Name Authority Control. Sacramento, CA : Library Juice Press, 2019.
 1. For example, see the [Mix N’ Match](https://meta.wikimedia.org/wiki/Mix%27n%27match) project within Wikidata, and the use of computer vision on images in Wikimedia Commons to assist with the application of structured metadata statements, as described in Alex Stinson’s [presentation](https://docs.google.com/presentation/d/1aMTjqusbzbwKeVTd2JWoE_9nsVQ1BQ7Fv8YqK9CWCQo/edit) at WikiConference North America 2019 and in Andrew Lih’s [round table discussion](https://wikiconference.org/wiki/Submissions:2019/Discussing_AI_and_Machine_Learning_in_the_Wikimedia_movement) at WikiConference North America.
 1. See also related discussions on pages 8-10 of the ARL White Paper on Wikidata (2019), https://www.arl.org/wp-content/uploads/2019/04/2019.04.18-ARL-white-paper-on-Wikidata.pdf accessed 25 May 2020.
-1. See https://wikiba.se/ 
-1.
-1.
-1.
+1. See https://wikiba.se/
