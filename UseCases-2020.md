@@ -2,6 +2,7 @@
 ## May 2020
 ## Developed informally by library staff at Columbia University, Harvard University, New York University, and the University of Pennsylvania
 Primary contributors: Charlene Chou, Christine Fernsebner-Eslao, Jim Hahn, Esther Jackson, Brian Luna Lucero, Timothy Ryan Mendenhall, Honor Moody, Alex Provo, Melanie Wacker, Alex Whelan.  Additional input from: Nicky Agate, Diane Shaw, Marc McGee, and Jackie Shieh. 
+## Note: this version of the use cases is closed.  Please fork or download and contribute additional use cases!
 
 ### SUMMARY
 The past 15 years have witnessed the development of a number of initiatives, projects, and standards to move library, archives, and museum metadata and collections out of siloed, flat-file database structures and into a linked open data implementation more accessible to open web search.   Despite the great deal of interest within the cultural heritage sphere, various roadblocks ranging from vast sets of legacy data, a highly complex and inconsistent metadata ecosystem, steep learning curves, and the lack of adequate systems and tools have prevented many cultural heritage institutions from moving fully into linked data production. 
