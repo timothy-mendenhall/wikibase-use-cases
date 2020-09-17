@@ -1,7 +1,7 @@
 # Use cases for institutional Wikibase instances
 ## May 2020
 ## Developed informally by library staff at Columbia University, Harvard University, New York University, and the University of Pennsylvania
-Primary contributors: Charlene Chou, Christine Fernsebner-Eslao, Jim Hahn, Esther Jackson, Brian Luna Lucero, Timothy Ryan Mendenhall, Honor Moody, Alex Provo, Melanie Wacker, Alex Whelan.  Additional input from: Nicky Agate, Diane Shaw, Marc McGee, and Jackie Shieh. 
+Primary contributors: Charlene Chou, Christine Fernsebner Eslao, Jim Hahn, Esther Jackson, Brian Luna Lucero, Timothy Ryan Mendenhall, Honor Moody, Alex Provo, Melanie Wacker, Alex Whelan.  Additional input from: Nicky Agate, Diane Shaw, Marc McGee, and Jackie Shieh. 
 ## Note: this version of the use cases is closed.  Please fork or download and contribute additional use cases!
 
 ### SUMMARY
