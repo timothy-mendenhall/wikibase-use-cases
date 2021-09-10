@@ -2,6 +2,30 @@
 
 **May 2020**
 
+- [Introduction](#introduction)
+  - [Primary contributors](#primary-contributors)
+- [SUMMARY](#summary)
+- [BACKGROUND](#background)
+- [USE CASES](#use-cases)
+  - [Better control over non-public metadata and locally defined vocabularies for intra-library systems and workflows](#better-control-over-non-public-metadata-and-locally-defined-vocabularies-for-intra-library-systems-and-workflows)
+  - [Entities that do not meet criteria for notability and identification](#entities-that-do-not-meet-criteria-for-notability-and-identification)
+  - [Granular curated tracking of organizational name changes](#granular-curated-tracking-of-organizational-name-changes)
+  - [Authority control and identity management across silos](#authority-control-and-identity-management-across-silos)
+  - [Enable the use of locally preferred labels while pointing to authorized forms of terms](#enable-the-use-of-locally-preferred-labels-while-pointing-to-authorized-forms-of-terms)
+  - [Enable granularity in mapping between vocabularies](#enable-granularity-in-mapping-between-vocabularies)
+  - [Cross-platform discovery within a single institution](#cross-platform-discovery-within-a-single-institution)
+  - [Multilingual discovery](#multilingual-discovery)
+  - [Provide greater context](#provide-greater-context)
+  - [Metadata publishing and transparency](#metadata-publishing-and-transparency)
+- [Subset of use cases appropriate for Wikibase](#subset-of-use-cases-appropriate-for-wikibase)
+  - [Publishing of local thesauri and authorities for external use](#publishing-of-local-thesauri-and-authorities-for-external-use)
+  - [Publishing of local thesauri and authorities for intra-University use](#publishing-of-local-thesauri-and-authorities-for-intra-university-use)
+  - [Pipeline to Wikidata and broader web discovery](#pipeline-to-wikidata-and-broader-web-discovery)
+  - [Digital humanities databases metadata and exploratory projects](#digital-humanities-databases-metadata-and-exploratory-projects)
+- [ALIGNMENT WITH PROFESSIONAL AND INSTITUTIONAL PRIORITIES and STRATEGIC DIRECTIONS](#alignment-with-professional-and-institutional-priorities-and-strategic-directions)
+- [RESOURCES NEEDED](#resources-needed)
+- [NOTES AND REFERENCES](#notes-and-references)
+
 ## Introduction
 
 Developed informally by library staff at Columbia University, Harvard University, New York University, and the University of Pennsylvania
